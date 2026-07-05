@@ -1,4 +1,5 @@
-Clone the repo 
+Python App Deployment on AWS EKS
+Microservices project using python
 
 docker build -t dbimage database/ <br />
 docker build -t authimage auth/ <br />
